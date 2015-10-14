@@ -14,3 +14,6 @@ a simple MATLAB script which statically points to the excel sheet in any compute
 Now when I'm at work, I just weight myself, log into OneDrive, and edit the excel sheet (OneDrive has an excel web-editor). 
 When I get home (or whenever I remember when I'm at home) I fire up MATLAB and run the script, which reads the now-updated
 excel sheet and plots a graph of my progress. 
+
+Here's a sample image of the output:
+https://cloud.githubusercontent.com/assets/1791375/10486578/9d6a9ad8-725d-11e5-85b7-0406f9d00b61.PNG
