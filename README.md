@@ -16,4 +16,4 @@ When I get home (or whenever I remember when I'm at home) I fire up MATLAB and r
 excel sheet and plots a graph of my progress. 
 
 Here's a sample image of the output:
-https://cloud.githubusercontent.com/assets/1791375/10486578/9d6a9ad8-725d-11e5-85b7-0406f9d00b61.PNG
+https://cloud.githubusercontent.com/assets/1791375/10486771/7ae4ed78-725e-11e5-82fb-7ad527539582.PNG
