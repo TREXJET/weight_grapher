@@ -15,5 +15,6 @@ Now when I'm at work, I just weight myself, log into OneDrive, and edit the exce
 When I get home (or whenever I remember when I'm at home) I fire up MATLAB and run the script, which reads the now-updated
 excel sheet and plots a graph of my progress. 
 
-Here's a sample image of the output:
-https://cloud.githubusercontent.com/assets/1791375/10486771/7ae4ed78-725e-11e5-82fb-7ad527539582.PNG
+Sample image of the output:
+-------------------------------------------------------------
+https://cloud.githubusercontent.com/assets/1791375/10747035/21d20fcc-7c27-11e5-98ec-7c577336ac2c.PNG
